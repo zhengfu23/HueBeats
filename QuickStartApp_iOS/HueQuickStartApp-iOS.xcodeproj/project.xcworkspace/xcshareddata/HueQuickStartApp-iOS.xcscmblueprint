@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BFBCE7972522102AF6EF9ECCB7985911C43FE40C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BFBCE7972522102AF6EF9ECCB7985911C43FE40C" : 0,
+    "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "59506F30-EFF3-4A45-914D-2AA3BBCF8DF3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BFBCE7972522102AF6EF9ECCB7985911C43FE40C" : "HueBeats\/",
+    "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7" : "PhilipsHueSDK-iOS-OSX"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HueQuickStartApp-iOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuickStartApp_iOS\/HueQuickStartApp-iOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PhilipsHue\/PhilipsHueSDK-iOS-OSX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhengfu23\/HueBeats.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BFBCE7972522102AF6EF9ECCB7985911C43FE40C"
+    }
+  ]
+}
