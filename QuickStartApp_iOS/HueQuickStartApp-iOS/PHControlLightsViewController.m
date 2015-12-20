@@ -188,7 +188,7 @@
     PHLight *light = [cache.lights objectForKey:@"10"];
     PHLightState *lightState = [[PHLightState alloc] init];
     [lightState setTransitionTime:0];
-    [lightState setBrightness:[NSNumber numberWithInt:12]];
+    [lightState setBrightness:[NSNumber numberWithInt:12]]; 
     [lightState setHue:[NSNumber numberWithInt:arc4random() % MAX_HUE]];
     [lightState setSaturation:[NSNumber numberWithInt:254]];
     
